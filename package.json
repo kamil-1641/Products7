@@ -1,5 +1,5 @@
 {
-  "name": "Automatic_Layout_Picker",
-  "description": "Arrange your site perfectly and intuitively depending on the user's screen size.",
-  "version": "3.7.1"
+  "name": "CPP_Web_Compiler",
+  "description": "Compile cpp programs entirely within the browser.",
+  "version": "4.7.1"
 }
